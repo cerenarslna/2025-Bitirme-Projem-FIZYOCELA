@@ -1,0 +1,10 @@
+#nav {
+    position:fixed;
+    width: 280px;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    box-shadow: 0 .5em 1.5em rgba(0, 0, 0, .1), 0 .125em .5em rgba(0, 0, 0, .15);
+    height: 100%;
+  }
+
